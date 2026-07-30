@@ -5,4 +5,7 @@ Requirements:
     ASE > 3.23.0
     pfp_api_client >= 2.3.1
 
-Last update: Jul 23, 2026
+DOI:10.5281/zenodo.xxxxxxxx
+
+---
+Last update: Jul 30, 2026
