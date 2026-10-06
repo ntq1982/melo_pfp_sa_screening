@@ -1,0 +1,7 @@
+antisite_type,center,center_index,layer,in_plane_neighbors,adjacent_layer_neighbors,in_plane_species,adjacent_layer_species
+Li@TM,Li@TM,22,2,Ni@115; Mn@78; Mn@79; Mo@149; Ni@140; Ni@146,Li@21; Li@62; Li@38; Li@54; Li@11; Li@43,Ni; Mn; Mn; Mo; Ni; Ni,Li; Li; Li; Li; Li; Li
+Li@TM,Li@TM,30,2,Ni@111; V@82; Ni@140; Mo@149; Mn@81; Ni@109,Li@56; Li@4; Li@72; Li@69; Li@48; Li@74,Ni; V; Ni; Mo; Mn; Ni,Li; Li; Li; Li; Li; Li
+Li@TM,Li@TM,44,2,Ni@89; Ni@133; Ni@109; Ni@146; Mo@149; Mn@77,Li@19; Li@32; Sc@75; Li@57; Li@61; Li@65,Ni; Ni; Ni; Ni; Mo; Mn,Li; Li; Sc; Li; Li; Li
+TM@Li,Sc@Li,75,1,Li@33; Li@8; Li@32; Li@19; Li@26; Li@16,Ni@110; Ni@131; Ni@90; Ni@133; Li@44; Ni@89,Li; Li; Li; Li; Li; Li,Ni; Ni; Ni; Ni; Li; Ni
+TM@Li,Ni@Li,92,3,Li@57; Li@74; Li@18; Li@63; Li@36; Li@69,Ni@109; Ni@99; Mn@81; Ni@124; Ni@108; Ni@144,Li; Li; Li; Li; Li; Li,Ni; Ni; Mn; Ni; Ni; Ni
+TM@Li,Ni@Li,130,3,Li@61; Li@57; Li@63; Li@0; Li@42; Li@37,Ni@89; Ni@133; Ni@94; Ni@95; Ni@147; Ni@125,Li; Li; Li; Li; Li; Li,Ni; Ni; Ni; Ni; Ni; Ni

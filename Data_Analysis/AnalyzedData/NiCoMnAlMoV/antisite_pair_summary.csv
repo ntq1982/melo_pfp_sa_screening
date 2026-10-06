@@ -1,0 +1,10 @@
+antisite_type,center_species,neighbor_region,neighbor_species,count
+Li@TM,Li,adjacent_layer,Li,18
+Li@TM,Li,in_plane,Al,1
+Li@TM,Li,in_plane,Mn,5
+Li@TM,Li,in_plane,Mo,3
+Li@TM,Li,in_plane,Ni,8
+Li@TM,Li,in_plane,V,1
+TM@Li,Ni,adjacent_layer,Mn,3
+TM@Li,Ni,adjacent_layer,Ni,15
+TM@Li,Ni,in_plane,Li,18

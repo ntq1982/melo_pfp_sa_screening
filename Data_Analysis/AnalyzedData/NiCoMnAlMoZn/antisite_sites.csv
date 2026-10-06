@@ -1,0 +1,7 @@
+site_index,species,antisite_type,site_label,layer,z_fractional
+8,Li,Li@TM,Li@TM,2,0.3333333333333333
+53,Li,Li@TM,Li@TM,2,0.3333333333333333
+58,Li,Li@TM,Li@TM,2,0.3333333333333333
+82,Zn,TM@Li,Zn@Li,5,0.8333333333333333
+97,Ni,TM@Li,Ni@Li,1,0.16666666666666652
+100,Ni,TM@Li,Ni@Li,3,0.5

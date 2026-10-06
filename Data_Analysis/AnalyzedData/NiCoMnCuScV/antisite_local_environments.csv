@@ -1,0 +1,3 @@
+antisite_type,center,center_index,layer,in_plane_neighbors,adjacent_layer_neighbors,in_plane_species,adjacent_layer_species
+Li@TM,Li@TM,8,2,V@82; Ni@100; Ni@107; Mn@76; Mn@77; Co@87,Li@69; Li@47; Li@48; Li@5; Li@42; Li@52,V; Ni; Ni; Mn; Mn; Co,Li; Li; Li; Li; Li; Li
+TM@Li,Sc@Li,75,3,Li@2; Li@54; Li@10; Li@64; Li@73; Li@14,Ni@93; Ni@94; Ni@132; Ni@104; Ni@134; Ni@145,Li; Li; Li; Li; Li; Li,Ni; Ni; Ni; Ni; Ni; Ni

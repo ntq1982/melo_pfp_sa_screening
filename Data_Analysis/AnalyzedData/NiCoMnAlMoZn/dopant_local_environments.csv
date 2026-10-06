@@ -1,0 +1,4 @@
+dopant,site,center_index,layer,in_plane_neighbors,adjacent_layer_neighbors,in_plane_species,adjacent_layer_species
+Al,Al@TM,81,2,Mn@79; Ni@130; Ni@136; Li@8; Ni@119; Mn@75,Li@21; Li@63; Li@9; Li@64; Li@28; Li@33,Mn; Ni; Ni; Li; Ni; Mn,Li; Li; Li; Li; Li; Li
+Zn,Zn@Li,82,5,Li@23; Li@17; Li@40; Li@11; Li@32; Li@67,Ni@142; Ni@126; Ni@127; Ni@120; Ni@148; Ni@107,Li; Li; Li; Li; Li; Li,Ni; Ni; Ni; Ni; Ni; Ni
+Mo,Mo@TM,149,2,Ni@113; Li@53; Ni@106; Li@8; Li@58; Ni@93,Li@19; Li@59; Li@60; Li@51; Li@36; Li@46,Ni; Li; Ni; Li; Li; Ni,Li; Li; Li; Li; Li; Li
