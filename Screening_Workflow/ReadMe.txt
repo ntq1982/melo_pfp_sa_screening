@@ -8,7 +8,7 @@ The workflow includes:
 
 3. Delithiation — generation of structures with different Li-extraction levels.
 
-4. PFP-based relaxation — structural optimization using the Pre-trained Foundational Potential (PFP).
+4. PFP-based relaxation — structural optimization using the Matlantis Preferred Potential (PFP).
 
 5. Property evaluation — calculation of structural, thermodynamic, and electrochemical descriptors.
 
