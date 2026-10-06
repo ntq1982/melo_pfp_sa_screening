@@ -1,0 +1,1 @@
+Interactive plots for exploring changes in the c-lattice parameter, unit-cell volume, voltage, and mixing energy as a function of Li delithiation. These interactive HTML files complement the complete screening dataset provided as Supplementary Data (CSV) for the associated paper.
